@@ -16,8 +16,15 @@
 
 ## Other lists of resources
 
--https://github.com/onlurking/awesome-infosec  
+-General Infosec List (https://github.com/onlurking/awesome-infosec)  
 -https://github.com/CSIRT-MU/edu-resources  
+-Becoming a pentester resources (https://jhalon.github.io/becoming-a-pentester/)
+
+## Infosec Search Engines
+
+-MITRE CVE List (https://cve.mitre.org/cve/)
+-https://www.reddit.com/r/cybersecurity/comments/152yb87/30_cybersecurity_search_engines_for_researchers/
+
 
 ## People
 
@@ -30,3 +37,4 @@
 -PwnFunction  
 -STOK  
 -InsiderPhD  
+-Infosec professional releasing Blackhat Python continuation course (https://www.reddit.com/user/sma92878/)
