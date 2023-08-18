@@ -1,0 +1,11 @@
+# Graphics Programming Resources
+
+### Ray Tracing Series
+-https://raytracing.github.io/
+
+### List of other Resources
+-https://www.reddit.com/r/GraphicsProgramming/comments/iiveq7/computer_graphics_learning_resources/
+
+### University courses/books
+-https://github.com/alecjacobson/geometry-processing-csc2520  
+-Keenan Crane Discrete Differential Geometry https://www.cs.cmu.edu/~kmcrane/Projects/DDG/
