@@ -12,13 +12,24 @@
 
 -CTF Time  
 -picoCTF  
--Trail of bits  
+-Trail of bits
+
+## AppSec
+
+-AppSecEngineer  
+-SheHacksPurple  
+-Practical DevSecOps  
+-PortSwigger BURP, Websecurity Academy  
+-Secure Code Warrior  
+-OWASP  
+
 
 ## Other lists of resources
 
 -General Infosec List (https://github.com/onlurking/awesome-infosec)  
 -https://github.com/CSIRT-MU/edu-resources  
 -Becoming a pentester resources (https://jhalon.github.io/becoming-a-pentester/)
+-Cybersecurity certs map (https://pauljerimy.com/security-certification-roadmap/)
 
 ## Infosec Search Engines
 
