@@ -21,6 +21,7 @@
 -https://github.com/CSIRT-MU/edu-resources  
 -Becoming a pentester resources (https://jhalon.github.io/becoming-a-pentester/)
 -Bytebreach - general info and resources (https://bytebreach.com/)
+-Appsec resources - https://github.com/paragonie/awesome-appsec
 
 ## Infosec Search Engines
 
