@@ -1,3 +1,4 @@
 Linux:
 
 https://linuxjourney.com/
+https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html
